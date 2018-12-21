@@ -1,0 +1,23 @@
+{
+  "name": "napster-hooks",
+  "version": "1.0.0",
+  "description": "Simple Parcel Sandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "lodash": "4.17.11",
+    "react": "16.7.0-alpha.0",
+    "react-dom": "16.7.0-alpha.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.117",
+    "@types/react": "16.4.18",
+    "@types/react-dom": "16.0.9",
+    "@types/sinon": "5.0.5",
+    "parcel-bundler": "^1.6.1"
+  }
+}
